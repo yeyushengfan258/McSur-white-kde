@@ -1,6 +1,6 @@
-## Sur-white KDE Theme
+## McSur-white KDE Theme
 
-Sur-white kde is a light clean theme for KDE Plasma desktop.
+McSur-white kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 

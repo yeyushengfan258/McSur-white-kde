@@ -39,8 +39,8 @@ prompt () {
 
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  prompt -i "\n * Install Sur-white in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/Sur-white" "${THEME_DIR}"
+  prompt -i "\n * Install McSur-white in ${THEME_DIR}... "
+  cp -r "${REO_DIR}/McSur-white" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else

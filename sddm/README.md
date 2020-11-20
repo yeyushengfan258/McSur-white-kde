@@ -1,5 +1,5 @@
 
-Sur-white sddm theme for KDE Plasma desktop.
+McSur-white sddm theme for KDE Plasma desktop.
 
 ## Installation
 
